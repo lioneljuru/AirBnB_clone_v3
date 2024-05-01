@@ -13,3 +13,6 @@ after getting some knowledge about:
 * How to request REST API
 
 we performed related tasks
+
+# Authors
+* JURU Jean Lionel(lioneljuru@gmail.com)
